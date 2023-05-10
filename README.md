@@ -1,4 +1,4 @@
-# ChatGPT based Voice Assistant
+# ChatGPT based Voice Assistant 
 This repository contains a voice assistant program that utilizes speech recognition, text-to-speech conversion, and the ChatGPT language model for interactive conversations.
 
 ## Features
@@ -30,4 +30,4 @@ Additionally, you need to obtain an OpenAI API token and set it as the API_TOKEN
 7. The program will convert the recorded voice to text, send it to ChatGPT for processing, and speak the generated response aloud.
 8. The program will continue to listen for key presses to initiate new interactions until the "esc" key is pressed to exit.
 
-Feel free to explore and enhance the capabilities of this voice assistant program by modifying the code and integrating additional features!
+This project is a personal pet project(currently a work in progress) and licensed under the MIT License. Contributions are welcome to explore and enhance the capabilities of this voice assistant program by modifying the code and integrating additional features.
